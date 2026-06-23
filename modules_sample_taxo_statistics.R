@@ -1,6 +1,6 @@
-######################################################################
+##############################################################################
 Probability of finding the same taxonomic class or sample type within modules.
-######################################################################
+##############################################################################
 library(ggplot2)
 plasmid_metadata # Module, Orignial_sample, Sample_type of original sample, taxonomy of plasmid contig
 classplasmid_metadata # Module, Orignial_sample, Sample_type of original sample, taxonomy of plasmid contigs assigned to a class 
