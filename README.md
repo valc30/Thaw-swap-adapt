@@ -19,6 +19,6 @@ Calculate probability of finding the same taxonomic class or sample type within 
   Packages: ggplot2 4.0.2
 - Create AMRG_coloc.R \
 Probability to find ARGs in a Genus plasmidome if MRG is already present while permuting ARG and MRG counts on plasmids while preserving the total number of ARG and MRG units \
-  Packages: ggplot2 4.0.2 ; cowplot 1.2.0 ; dplyr1.1.4\
+  Packages: ggplot2 4.0.2 ; cowplot 1.2.0 ; dplyr1.1.4
 
 
