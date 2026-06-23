@@ -16,9 +16,9 @@ Input: An Infomap multilayer network .txt file in explicit format. The file cont
 R version 4.5.1
 - modules_sample_taxo_statistics.R \
 Calculate probability of finding the same taxonomic class or sample type within modules ; Identify how many modules are pure with each sample_type and shared modules \
-Packages: ggplot2 4.0.2
-- XX
-  Usage \
-  Packages \
+  Packages: ggplot2 4.0.2
+- AMRG_colocalisation.R
+Probability to find ARGs in a Genus plasmidome if MRG is already present while permuting ARG and MRG counts on plasmids
+  Packages: ggplot2 4.0.2 ; cowplot 1.2.0 ; dplyr1.1.4\
 
 
