@@ -3,10 +3,8 @@ We combine metagenomics and metatranscriptomics across a permafrost-to-water con
 
 R version 4.5.1
 - modules_sample_taxo_statistics.R
-Usage: Calculate probability of finding the same taxonomic class or sample type within modules ; Identify how many modules are pure with each Sample_type and shared modules
+Usage: Calculate probability of finding the same taxonomic class or sample type within modules ; Identify how many modules are pure with each Sample_type and shared modules \
 Packages: ggplot2
 - XX
-  Usage
-  Packages
-  Input
-  Outout
+  Usage \
+  Packages \
