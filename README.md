@@ -1,5 +1,5 @@
 # Thaw-swap-adapt
-We combine metagenomics and metatranscriptomics across a permafrost-to-water continuum to resolve the metaplasmidome. We reconstructed a vast, structured, environmentally responsive plasmid reservoir and tracked its host-community. This release gathers python and R scripts associated with the publication "Thaw-swap-adapt, XX", Valentine Cyriaque, Martial Leroy, Anne-Charlotte Vranckx, Ruddy Wattiez, Jérôme Comte.
+We combine metagenomics and metatranscriptomics across a permafrost-to-water continuum to resolve the metaplasmidome. We reconstructed a vast, structured, environmentally responsive plasmid reservoir and tracked its host-community. This release gathers statistical python and R scripts associated with the publication "Thaw-swap-adapt, XX", Valentine Cyriaque, Martial Leroy, Anne-Charlotte Vranckx, Ruddy Wattiez, Jérôme Comte.
 
 Python 3.10
 - module_count_prob.py
