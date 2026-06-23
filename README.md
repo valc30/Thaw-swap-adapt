@@ -6,12 +6,12 @@ Python 3.10
 Calculate probability to find more or less modules than expected by chance after plasmid node shuffeling  using infomap
 Usage : \
 python infomap_perm_nodes.py \
-  --input 	infomap_multilayer_full.txt \
+  --input 	network.txt \
   --n_perm 	1000 \
   --outdir 	results/ \
   --infomap 	/path/to/infomap \
   --seed        3 \
-Input: An Infomap multilayer .txt file in explicit format. The file contains a *Vertices section listing node IDs and names, followed by a *Multilayer section listing edges as layer_u node_u layer_v node_v weight. Each row encodes one interaction between two node-layer pairs.
+Input: An Infomap multilayer network .txt file in explicit format. The file contains a *Vertices section listing node IDs and names, followed by a *Multilayer section listing edges as layer_u node_u layer_v node_v weight. Each row encodes one interaction between two node-layer pairs.
 
 R version 4.5.1
 - modules_sample_taxo_statistics.R \
