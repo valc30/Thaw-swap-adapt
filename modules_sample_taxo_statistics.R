@@ -12,7 +12,7 @@ df3 <- table(plasmid_metadata$Module, plasmid_metadata$Original_sample)
 
 df1 # rows = modules, columns = taxa ; number of plasmids in each module
 df2 # rows = modules, columns = sample-type ; number of plasmids in each module
-
+df3 # rows = modules, columns = sample-origin ; number of plasmids in each module
 
 ###Module and taxonomic class
 #1 Compute observed chi-square statistic
