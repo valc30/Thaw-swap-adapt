@@ -2,7 +2,7 @@ library(ggplot2)
 library(cowplot)
 library(dplyr)
 
-AMRGbyP # col1=Plasmid ; col2= Genus; col3=ARG ; col4= MRG
+AMRGbyP # col1=Plasmid ; col2= Genus; col3=ARG count ; col4= MRG count
 set.seed(123) 
 ## List of unique plasmids for permutation reference
 unique_plasmids <- unique(AMRGbyP$Plasmid)
